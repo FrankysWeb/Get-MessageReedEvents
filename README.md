@@ -6,7 +6,7 @@
  - Exchange Server 2019
  
 ## Usage
-See Blog for usage: [Exchange ReadTracking] (https://www.frankysweb.de/exchange-readtracking-wurde-eine-mail-bereits-gelesen/)
+See Blog for usage: [Exchange ReadTracking](https://www.frankysweb.de/exchange-readtracking-wurde-eine-mail-bereits-gelesen/)
  
 ## Website
  [FrankysWeb](https://www.frankysweb.de/)
